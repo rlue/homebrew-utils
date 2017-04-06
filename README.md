@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```
-brew install rlue/utils/timer
+$ brew install rlue/utils/timer
 ```
 
 [tm]: https://github.com/rlue/timer
