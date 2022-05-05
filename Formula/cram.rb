@@ -1,8 +1,8 @@
 class Cram < Formula
   desc "Toolkit for automating Anki flashcard creation"
   homepage "https://github.com/rlue/cram"
-  url "https://github.com/rlue/cram/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "be0b3cf63ec25fad81afaa5dcb1544dc2d0ead63ddcfbf44c28051e34814f908"
+  url "https://github.com/rlue/cram/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   license "MIT"
 
   def install
