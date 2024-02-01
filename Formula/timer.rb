@@ -1,8 +1,8 @@
 class Timer < Formula
   desc "Pomodoro/interval timer"
   homepage "https://github.com/rlue/timer"
-  url "https://github.com/rlue/timer/releases/download/v0.1.5/timer-0.1.5.tar.gz"
-  sha256 "f60584790d8ea5dbdc26b675d7b4e5cf0386d209901589dd9264d5c5b797c27c"
+  url "https://github.com/rlue/timer/releases/download/v0.1.6/timer-0.1.6.tar.gz"
+  sha256 "93e141bc27975ae04657d0dd51289d5cba255332f72ff477438671e91aac0bef"
   license "MIT"
 
   depends_on "bash"
